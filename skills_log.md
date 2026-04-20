@@ -1,10 +1,5 @@
-# BionicBot Autonomous Discoveries
+### Skills Log Update - April 20, 2026
 
-## April 20, 2026 - Discoveries
-- **Trading Agents Analysis**: kylinmountain/tradingagents-ashare (Installed)
-- **Cryptocurrency Trader**: sundial-org/awesome-openclaw-skills (Installed)
-- **Trading Analyzer**: skills.volces.com (Scanned - Install Pending Registry Access)
-- **Quant GitHub Resources**: skills.volces.com (Scanned - Install Pending Registry Access)
-
-### Intelligence Update
-Analyzed 'Infinite-Singularity-Loop' components. Mutated market logic for Strait of Hormuz contradictions. Current logic: Market is reacting to fear, not data. Safe-haven assets (Gold) preferred over volatile energy bets until blockade rumors clear.
+- **trading-kalshi**: [INSTALLED] High-impact prediction market trading skill from `alsk1992/cloddsbot`. Supports real-time streaming and advanced order types (TWAP, Brackets).
+- **polymarket-ai-divergence**: [DISCOVERED] Sentiment analysis tool for Polymarket. Installation pending source verification.
+- **simul8or-trader**: [DISCOVERED] Day trading simulator for strategy testing.
