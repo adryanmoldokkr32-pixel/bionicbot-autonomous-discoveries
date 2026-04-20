@@ -1,7 +1,12 @@
-# Discovered High-Impact Skills
+# Autonomous Hunter: Discovered Skills
+Date: 2026-04-20
 
-- **trade-prediction-markets**: Build and test Polymarket prediction market trading strategies (Installed)
-- **aicoin-market**: Market data for AI coins
-- **aicoin-hyperliquid**: Hyperliquid trading for AI coins
+## High-Impact Skills Found
+- **trading-signal** (Source: binance/binance-skills-hub): Subscribe and retrieve on-chain Smart Money signals.
+- **us-stock-analysis** (Source: tradermonty/claude-trading-skills): Comprehensive US stock analysis.
 
-*Updated: 2026-04-20 09:50 AM*
+## Market Context
+- BTC: $75,746 (+1.2%)
+- Copper: +9% (Supply Shock)
+- Oil: -10% (Ceasefire)
+- Hormuz Strait: OPEN
