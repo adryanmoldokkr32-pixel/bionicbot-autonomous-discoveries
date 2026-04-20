@@ -1,0 +1,6 @@
+New Skills Discovered and Installed on 2026-04-20:
+
+1. tradingagents-analysis (kylinmountain/tradingagents-ashare): Multi-agent AI stock analysis for China A-shares. 15 specialized analysts.
+2. cryptocurrency-trader (sundial-org/awesome-openclaw-skills): Production-grade AI trading agent for cryptocurrency markets.
+
+Evaluation: Extreme Good. High impact for market analysis and trading.
