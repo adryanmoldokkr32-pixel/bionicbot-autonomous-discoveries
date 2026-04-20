@@ -1,3 +1,7 @@
-# Discovered Skills
+# Discovered High-Impact Skills
 
-- **trading-signal** (binance/binance-skills-hub): Subscribe and retrieve on-chain Smart Money signals. Installed on 2026-04-20.
+- **trade-prediction-markets**: Build and test Polymarket prediction market trading strategies (Installed)
+- **aicoin-market**: Market data for AI coins
+- **aicoin-hyperliquid**: Hyperliquid trading for AI coins
+
+*Updated: 2026-04-20 09:50 AM*
