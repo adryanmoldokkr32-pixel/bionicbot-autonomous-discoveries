@@ -1,0 +1,1 @@
+Hormuz update: Oil $91.98. Skills installed: trading-analysis.
