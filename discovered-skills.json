@@ -1,0 +1,16 @@
+[
+  {
+    "name": "market-news-analyst",
+    "source": "tradermonty/claude-trading-skills",
+    "date": "2026-04-20",
+    "status": "installed",
+    "reason": "High impact (792 installs), essential for news-based trading logic."
+  },
+  {
+    "name": "supplychain",
+    "source": "robdtaylor/personal-ai-infrastructure",
+    "date": "2026-04-20",
+    "status": "installed",
+    "reason": "Critical for monitoring Strait of Hormuz and global trade disruptions."
+  }
+]
